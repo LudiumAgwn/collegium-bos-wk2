@@ -6,7 +6,7 @@
 1. [nearpad 편집기](https://nearpad.dev/editor) 사이트에 접속해주세요.
 
 ## 2. State를 이용하여 UI에 변경을 발생시키기
-1. `idknwhoru.near/widget/collegium.bos.wk2.StateWidget` 위젯을 Fork 해주세요.
+1. `idknwhoru.near/widget/collegium.bos.wk2.StateWidget` 위젯을 fork 해주세요.
 
 ![search_state_widget](search_state_widget.png)
 
@@ -15,7 +15,25 @@
 ![state_widget text](state_widget.png)
 
 ## 3. Web3 지갑 연결하기
-1. 
+1. `idknwhoru.near/widget/collegium.bos.wk2.Web3ConnectWidget` 위젯을 fork 해주세요.
+
+![search_web3_connect_widget](search_web3_connect_widget.png)
+
+2. `Connect Web3 Wallet` 버튼을 클릭해주세요.
+
+![connect_web3_wallet_button](connect_web3_wallet_button.png)
+
+3. MetaMask를 선택해주세요.
+
+![select_wallet](select_wallet.png)
+
+4. MestaMask 비밀번호를 입력하고, `unlock` 버튼을 클릭해주세요.
+
+![unlock_metamask](unlock_metamask.png)
+
+5. 지갑 정보가 변경된 것을 확인해주세요.
+
+![wallet_info](wallet_info.png)
 
 ## 4. Ethereum 컨트랙트 사용하기
 
