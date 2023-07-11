@@ -37,6 +37,22 @@
 
 ## 4. Ethereum 컨트랙트 사용하기
 
+1. `idknwhoru.near/widget/collegium.bos.wk2.EthereumContractWidget` 위젯을 fork 해주세요.
+
+![search_ethereum_contract_widget](search_ethereum_contract_widget.png)
+
+2. 화면에 아래와 같은 메시지가 표시될 경우 `Sepolia`로 네트워크를 변경해주세요.
+
+![chagen_sepolia_message](chagen_sepolia_message.png)
+
+3. metamask extension에서 변경할 수 있습니다.
+
+![change_seplia_network](change_seplia_network.png)
+
+4. 변경된 화면을 확인해주세요.
+
+![call_price_feed_contract](call_price_feed_contract.png)
+
 ## 5. LiquityWidget 사용하기
 
 
