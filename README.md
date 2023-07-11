@@ -6,9 +6,11 @@
 ## 1. 온라인 에디터 환경 접속하기
 1. [nearpad 편집기](https://nearpad.dev/editor) 사이트에 접속해주세요.
 
-## 2. LiquityWidget 컴포넌트 불러오기
+## 2. LiquityOpenTrove 컴포넌트 불러오기
+1. [LiquityOpenTrove.jsx](assets/code/liquityOpenTroveSepolia.jsx) 파일의 코드를 복사해주세요
+2. nearpad 편집기에 붙여넣기 해주세요.
 
-## 3. LiquityWidget 코드 뜯어보기
+## 3. LiquityOpenTrove 코드 뜯어보기
 
 ## 4. 컨트랙트 실행하기
 1. openTrove
