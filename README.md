@@ -8,50 +8,50 @@
 ## 2. State를 이용하여 UI에 변경을 발생시키기
 1. `idknwhoru.near/widget/collegium.bos.wk2.StateWidget` 위젯을 fork 해주세요.
 
-![search_state_widget](search_state_widget.png)
+![search_state_widget](assets/images/search_state_widget.png)
 
 2. switch 버튼을 클릭했을 때 turn off 메시지가 변경되는 것을 확인해주세요.
 
-![state_widget text](state_widget.png)
+![state_widget text](assets/images/state_widget.png)
 
 ## 3. Web3 지갑 연결하기
 1. `idknwhoru.near/widget/collegium.bos.wk2.Web3ConnectWidget` 위젯을 fork 해주세요.
 
-![search_web3_connect_widget](search_web3_connect_widget.png)
+![search_web3_connect_widget](assets/images/search_web3_connect_widget.png)
 
 2. `Connect Web3 Wallet` 버튼을 클릭해주세요.
 
-![connect_web3_wallet_button](connect_web3_wallet_button.png)
+![connect_web3_wallet_button](assets/images/connect_web3_wallet_button.png)
 
 3. MetaMask를 선택해주세요.
 
-![select_wallet](select_wallet.png)
+![select_wallet](assets/images/select_wallet.png)
 
 4. MestaMask 비밀번호를 입력하고, `unlock` 버튼을 클릭해주세요.
 
-![unlock_metamask](unlock_metamask.png)
+![unlock_metamask](assets/images/unlock_metamask.png)
 
 5. 지갑 정보가 변경된 것을 확인해주세요.
 
-![wallet_info](wallet_info.png)
+![wallet_info](assets/images/wallet_info.png)
 
 ## 4. Ethereum 컨트랙트 사용하기
 
 1. `idknwhoru.near/widget/collegium.bos.wk2.EthereumContractWidget` 위젯을 fork 해주세요.
 
-![search_ethereum_contract_widget](search_ethereum_contract_widget.png)
+![search_ethereum_contract_widget](assets/images/search_ethereum_contract_widget.png)
 
 2. 화면에 아래와 같은 메시지가 표시될 경우 `Sepolia`로 네트워크를 변경해주세요.
 
-![chagen_sepolia_message](chagen_sepolia_message.png)
+![chagen_sepolia_message](assets/images/chagen_sepolia_message.png)
 
 3. metamask extension에서 변경할 수 있습니다.
 
-![change_seplia_network](change_seplia_network.png)
+![change_seplia_network](assets/images/change_seplia_network.png)
 
 4. 변경된 화면을 확인해주세요.
 
-![call_price_feed_contract](call_price_feed_contract.png)
+![call_price_feed_contract](assets/images/call_price_feed_contract.png)
 
 
 ## Mission
