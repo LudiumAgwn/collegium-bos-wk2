@@ -1,24 +1,30 @@
 # Collegium-BOS-WK2
 
-## 주제: dApp 다뤄보기
-이번 주제는 금융 서비스를 Ethereum 네트워크 상에서 제공하는 DeFi 중에 하나인 Liquity 프로토콜을 다룹니다.
+## 주제: 위젯을 좀 더 인터렉티브하게 만들기
 
 ## 1. 온라인 에디터 환경 접속하기
 1. [nearpad 편집기](https://nearpad.dev/editor) 사이트에 접속해주세요.
 
-## 2. LiquityOpenTrove 컴포넌트 불러오기
-1. [LiquityOpenTrove.jsx](assets/code/liquityOpenTroveSepolia.jsx) 파일의 코드를 복사해주세요
-2. nearpad 편집기에 붙여넣기 해주세요.
+## 2. State를 이용하여 UI에 변경을 발생시키기
+1. `idknwhoru.near/widget/collegium.bos.wk2.StateWidget` 위젯을 Fork 해주세요.
 
-## 3. LiquityOpenTrove 코드 뜯어보기
+![search_state_widget](search_state_widget.png)
 
-## 4. 컨트랙트 실행하기
-1. openTrove
+2. switch 버튼을 클릭했을 때 turn off 메시지가 변경되는 것을 확인해주세요.
 
-2. closeTrove
+![state_widget text](state_widget.png)
 
-3. Etherscan에서 트랜잭션 확인하기
+## 3. Web3 지갑 연결하기
+1. 
+
+## 4. Ethereum 컨트랙트 사용하기
+
+## 5. LiquityWidget 사용하기
+
+
 ## Mission
+`LiquityOpenTrove` 위젯에 몇가지 추가 요청 사항이 들어왔습니다.
+요청 사항은 다음과 같습니다. 
 - [ ] `openTrove`가 성공한 지갑은 `closeTrove`가 실행되기 전까지 `이 지갑은 이미 활성화된 트로브가 있습니다.` 메세지를 표시해주세요.
 - [ ] `borrowWrapper` 컴포넌트의 스타일을 외부 css파일을 불러와서 적용해보세요.
     - hint 1: fetch API를 사용하세요.
