@@ -67,3 +67,5 @@
         - NICR = Ether / LUSD * 100
         - hint 1: [ethers.js](https://docs.near.org/bos/tutorial/ethers-js) api 기능을 사용해서 계산해주세요
         - hint 2: hint 1의 자료가 부족할 경우 [이 문서](https://docs.ethers.org/v5/)를 참고해주세요.
+
+- [결과물 확인 안내](https://github.com/LudiumAgwn/collegium-bos-wk2/tree/mission_result)
